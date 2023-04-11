@@ -4,7 +4,7 @@
 
 name = input("Enter your name :")
 age =input ("Enter your age :")
-sport = input ("Enter your favorite sport :")
+hobby = input ("Enter your favorite hobby :")
 
 
-print(f"Hello my names is {name} ,i'm {age} years old and in my free time i like to play {sport}")
+print(f"Hello my names is {name} ,i'm {age} years old and in my free time i like to do {hobby}")
